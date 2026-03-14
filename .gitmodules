@@ -1,0 +1,6 @@
+[submodule "microservices/ems-post-service"]
+	path = microservices/ems-post-service
+	url = git@github.com:dhiegoluz/ems-post-service.git
+[submodule "microservices/ems-text-processor-service"]
+	path = microservices/ems-text-processor-service
+	url = git@github.com:dhiegoluz/ems-text-processor-service.git
